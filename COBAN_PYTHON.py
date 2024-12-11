@@ -12,3 +12,6 @@ print(my_tuple[1:4])
 #Kieu tu dien
 my_dict={'1':'Nguyen','2':'Hoang','3':'Chuong'}
 my_dict.get('1','not one')
+#Kieu set
+my_set={1,2,3}
+my_set=set([1,2,3])
